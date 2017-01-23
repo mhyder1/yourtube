@@ -1,0 +1,22 @@
+Tools:
+
+Node.js
+Bower
+MongoDB
+Nodemon /Supervisor
+
+packages:
+
+async – For managing asynchronous flow
+bcrypt – For hashing passwords
+body-parser – For parsing POST request data
+cloudinary – For uploading videos to Cloudinary Storage
+cors – For managing cross origin request permissions
+dotenv – For reading environment values from the .env file
+express – Web framework for Node.js
+gravatar – For fetching a user’s avatar from the popular gravatar service
+jwt-simple – For creating json web tokens
+lodash – For easy manipulation of data structure
+moment – For getting time stamps easily
+mongoose – MongoDB ODM with validation and Schema support
+morgan – HTTP Request logger
